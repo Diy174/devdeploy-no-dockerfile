@@ -1,6 +1,10 @@
 {
-  "name": "no-dockerfile-test",
+  "name": "no-docker",
   "version": "1.0.0",
-  "scripts": { "start": "node index.js" },
-  "dependencies": { "express": "^4.18.0" }
+  "description": "Test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
 }
